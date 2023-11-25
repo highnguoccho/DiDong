@@ -1,0 +1,508 @@
+.home-screen {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-screen .overlap-wrapper {
+  background-color: #ffffff;
+  height: 812px;
+  width: 375px;
+}
+
+.home-screen .overlap {
+  height: 798px;
+  position: relative;
+  top: 14px;
+}
+
+.home-screen .rectangle {
+  height: 125px;
+  left: 20px;
+  position: absolute;
+  top: 647px;
+  width: 127px;
+}
+
+.home-screen .img {
+  height: 125px;
+  left: 172px;
+  position: absolute;
+  top: 647px;
+  width: 127px;
+}
+
+.home-screen .rectangle-2 {
+  height: 125px;
+  left: 324px;
+  position: absolute;
+  top: 647px;
+  width: 51px;
+}
+
+.home-screen .div {
+  background-color: #ffffff;
+  border-radius: 40px 40px 0px 0px;
+  box-shadow: 0px -7px 104px -20px #00000033;
+  height: 118px;
+  left: 0;
+  position: absolute;
+  top: 680px;
+  width: 375px;
+}
+
+.home-screen .IPHONE {
+  height: 790px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 341px;
+}
+
+.home-screen .action {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.home-screen .time {
+  color: #000000;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.17px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 54px;
+}
+
+.home-screen .container {
+  height: 12px;
+  left: 274px;
+  position: absolute;
+  top: 3px;
+  width: 67px;
+}
+
+.home-screen .battery {
+  background-image: url(../../../static/img/rectangle.svg);
+  background-size: 100% 100%;
+  height: 12px;
+  left: 42px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.home-screen .rectangle-3 {
+  background-color: #000000;
+  border-radius: 1.6px;
+  height: 10px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 20px;
+}
+
+.home-screen .combined-shape {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.home-screen .wi-fi {
+  height: 11px;
+  left: 22px;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.home-screen .line {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 5px;
+  left: 100px;
+  position: absolute;
+  top: 785px;
+  width: 135px;
+}
+
+.home-screen .mask-group {
+  height: 46px;
+  left: 308px;
+  position: absolute;
+  top: 55px;
+  width: 47px;
+}
+
+.home-screen .hello-christie-doe {
+  color: #363636;
+  font-family: "Helvetica Now Display-Bold", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0.66px;
+  line-height: 22px;
+  position: absolute;
+  top: 48px;
+}
+
+.home-screen .text-wrapper {
+  font-weight: 700;
+}
+
+.home-screen .span {
+  font-family: "Helvetica Now Display-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.48px;
+}
+
+.home-screen .text-wrapper-2 {
+  font-family: "Helvetica Now Display-Regular", Helvetica;
+  font-size: 14px;
+  letter-spacing: 0.42px;
+  line-height: 14px;
+}
+
+.home-screen .text-wrapper-3 {
+  font-family: "Helvetica Now Display-Regular", Helvetica;
+  font-size: 14px;
+  letter-spacing: 0.42px;
+  line-height: 14.9px;
+}
+
+.home-screen .text-wrapper-4 {
+  color: #363636;
+  font-family: "Helvetica Now Display-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 23px;
+  letter-spacing: 0.54px;
+  line-height: normal;
+  position: absolute;
+  top: 133px;
+}
+
+.home-screen .text-wrapper-5 {
+  color: #363636;
+  font-family: "Helvetica Now Display-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 23px;
+  letter-spacing: 0.54px;
+  line-height: normal;
+  position: absolute;
+  top: 589px;
+}
+
+.home-screen .group {
+  height: 22px;
+  left: 105px;
+  position: absolute;
+  top: 716px;
+  width: 17px;
+}
+
+.home-screen .overlap-group {
+  height: 23px;
+  left: -1px;
+  position: relative;
+  width: 19px;
+}
+
+.home-screen .group-2 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.home-screen .ellipse {
+  background-color: #ffffff;
+  border-radius: 3.5px;
+  height: 7px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.home-screen .ellipse-2 {
+  background-color: #ff7e7e;
+  border-radius: 2.5px;
+  height: 5px;
+  left: 11px;
+  position: absolute;
+  top: 1px;
+  width: 5px;
+}
+
+.home-screen .group-3 {
+  height: 22px;
+  left: 242px;
+  position: absolute;
+  top: 716px;
+  width: 24px;
+}
+
+.home-screen .rectangle-4 {
+  background-color: #f8f8fb;
+  border-radius: 16px;
+  height: 177px;
+  left: 20px;
+  position: absolute;
+  top: 191px;
+  width: 158px;
+}
+
+.home-screen .rectangle-5 {
+  background-color: #f8f8fb;
+  border-radius: 16px;
+  height: 177px;
+  left: 20px;
+  position: absolute;
+  top: 383px;
+  width: 158px;
+}
+
+.home-screen .rectangle-6 {
+  background-color: #f8f8fb;
+  border-radius: 16px;
+  height: 177px;
+  left: 196px;
+  position: absolute;
+  top: 191px;
+  width: 158px;
+}
+
+.home-screen .rectangle-7 {
+  background-color: #f8f8fb;
+  border-radius: 16px;
+  height: 177px;
+  left: 196px;
+  position: absolute;
+  top: 383px;
+  width: 158px;
+}
+
+.home-screen .text-wrapper-6 {
+  color: #363636;
+  font-family: "Helvetica Now Display-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 63px;
+  letter-spacing: 0.48px;
+  line-height: normal;
+  position: absolute;
+  top: 290px;
+}
+
+.home-screen .text-wrapper-7 {
+  color: #363636;
+  font-family: "Helvetica Now Display-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 67px;
+  letter-spacing: 0.48px;
+  line-height: normal;
+  position: absolute;
+  top: 488px;
+}
+
+.home-screen .text-wrapper-8 {
+  color: #363636;
+  font-family: "Helvetica Now Display-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 240px;
+  letter-spacing: 0.48px;
+  line-height: normal;
+  position: absolute;
+  top: 488px;
+}
+
+.home-screen .text-wrapper-9 {
+  color: #363636;
+  font-family: "Helvetica Now Display-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 228px;
+  letter-spacing: 0.48px;
+  line-height: normal;
+  position: absolute;
+  top: 290px;
+}
+
+.home-screen .text-wrapper-10 {
+  color: #b6b6c1;
+  font-family: "Helvetica Now Display-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 67px;
+  letter-spacing: 0.3px;
+  line-height: normal;
+  position: absolute;
+  top: 318px;
+}
+
+.home-screen .text-wrapper-11 {
+  color: #b6b6c1;
+  font-family: "Helvetica Now Display-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 69px;
+  letter-spacing: 0.3px;
+  line-height: normal;
+  position: absolute;
+  top: 516px;
+}
+
+.home-screen .text-wrapper-12 {
+  color: #b6b6c1;
+  font-family: "Helvetica Now Display-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 250px;
+  letter-spacing: 0.3px;
+  line-height: normal;
+  position: absolute;
+  top: 516px;
+}
+
+.home-screen .text-wrapper-13 {
+  color: #b6b6c1;
+  font-family: "Helvetica Now Display-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 233px;
+  letter-spacing: 0.3px;
+  line-height: normal;
+  position: absolute;
+  top: 318px;
+}
+
+.home-screen .vector-wrapper {
+  background-color: #dbdaf7;
+  border-radius: 16px;
+  height: 55px;
+  left: 72px;
+  position: absolute;
+  top: 227px;
+  width: 55px;
+}
+
+.home-screen .vector {
+  height: 26px;
+  left: 12px;
+  position: absolute;
+  top: 14px;
+  width: 31px;
+}
+
+.home-screen .group-4 {
+  background-color: #d0edfb;
+  border-radius: 16px;
+  height: 55px;
+  left: 247px;
+  position: absolute;
+  top: 422px;
+  width: 55px;
+}
+
+.home-screen .group-5 {
+  background-color: #d8f3f1;
+  border-radius: 16px;
+  height: 55px;
+  left: 72px;
+  position: absolute;
+  top: 422px;
+  width: 55px;
+}
+
+.home-screen .rectangle-8 {
+  background-color: #f6e3db;
+  border-radius: 16px;
+  height: 55px;
+  left: 247px;
+  position: absolute;
+  top: 227px;
+  width: 55px;
+}
+
+.home-screen .frame {
+  height: 25px;
+  left: 260px;
+  position: absolute;
+  top: 242px;
+  width: 29px;
+}
+
+.home-screen .group-6 {
+  height: 27px;
+  left: 86px;
+  position: absolute;
+  top: 436px;
+  width: 27px;
+}
+
+.home-screen .group-7 {
+  height: 26px;
+  left: 262px;
+  position: absolute;
+  top: 436px;
+  width: 27px;
+}
+
+.home-screen .arrow {
+  height: 15px;
+  left: 326px;
+  position: absolute;
+  top: 598px;
+  width: 29px;
+}
+
+.home-screen .group-8 {
+  height: 24px;
+  left: 311px;
+  position: absolute;
+  top: 715px;
+  width: 26px;
+}
+
+.home-screen .vector-2 {
+  height: 25px;
+  left: 167px;
+  position: absolute;
+  top: 714px;
+  width: 30px;
+}
+
+.home-screen .rectangle-9 {
+  background-color: #d0edfbcc;
+  border-radius: 11px;
+  height: 47px;
+  left: 27px;
+  position: absolute;
+  top: 704px;
+  width: 47px;
+}
+
+.home-screen .group-9 {
+  height: 23px;
+  left: 39px;
+  position: absolute;
+  top: 716px;
+  width: 22px;
+}

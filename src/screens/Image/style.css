@@ -1,0 +1,13 @@
+.image {
+  height: 824px;
+  width: 916px;
+}
+
+.image .glass-bottle-mockups {
+  height: 812px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 375px;
+}

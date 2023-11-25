@@ -25,7 +25,7 @@ export const HomeScreen = () => {
           </div>
           <img className="mask-group" alt="Mask group" src="/img/mask-group.png" />
           <p className="hello-christie-doe">
-            <span className="text-wrapper">Hello</span>
+            <span className="text-wrapper">Xin chào</span>
             <span className="span">
               {" "}
               👋🏻
@@ -35,7 +35,7 @@ export const HomeScreen = () => {
             <span className="text-wrapper-3">oe</span>
           </p>
           <div className="text-wrapper-4">Your Insights</div>
-          <div className="text-wrapper-5">Explore More</div>
+          <div className="text-wrapper-5">Khám phá thêm</div>
           <div className="group">
             <div className="overlap-group">
               <img className="group-2" alt="Group" src="/img/group-149.png" />
@@ -48,13 +48,13 @@ export const HomeScreen = () => {
           <div className="rectangle-5" />
           <div className="rectangle-6" />
           <div className="rectangle-7" />
-          <div className="text-wrapper-6">Scan new</div>
-          <div className="text-wrapper-7">Success</div>
-          <div className="text-wrapper-8">Directory</div>
+          <div className="text-wrapper-6">Quét ngay</div>
+          <div className="text-wrapper-7">Đơn đã hoàn thành</div>
+          <div className="text-wrapper-8">Điều hướng</div>
           <div className="text-wrapper-9">Counterfeits</div>
           <div className="text-wrapper-10">Scanned 483</div>
           <div className="text-wrapper-11">Checkouts 8</div>
-          <div className="text-wrapper-12">History 26</div>
+          <div className="text-wrapper-12">Lịch sử</div>
           <div className="text-wrapper-13">Counterfeited 32</div>
           <div className="vector-wrapper">
             <img className="vector" alt="Vector" src="/img/vector-1.svg" />
